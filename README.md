@@ -1,4 +1,4 @@
-bb
+ngbee
 ==
 
-bb is a tools for quickly generate cms system from github
+ngbee is a tools for quickly generate cms system from github
